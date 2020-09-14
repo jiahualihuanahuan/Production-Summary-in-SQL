@@ -28,7 +28,7 @@ A good example can be seen here.
 https://stackoverflow.com/questions/13999817/reason-for-column-is-invalid-in-the-select-list-because-it-is-not-contained-in-e
 I solved this problem by applying aggregate function on all columns have the above problem.
 
-# ORDER BY function
+## ORDER BY function
 ORDER BY function is used to sort work order as ascending order. 
 
 ## WHERE statement
