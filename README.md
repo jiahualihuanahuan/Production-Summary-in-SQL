@@ -36,3 +36,6 @@ ORDER BY function is used to sort work order as ascending order.
 
 ## WHERE statement
 WHERE statement is used to narrow down the only time period and work order to be shown. 
+
+## AS command / aliase command
+AS command is used to give a table, or a column in a table, a temporary name which makes the query more readable.
