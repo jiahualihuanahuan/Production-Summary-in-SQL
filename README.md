@@ -1,7 +1,7 @@
 # Production-Summary-in-SQL
 
 ## Goal
-The goal is to generate weekly production summary report for weekly management meeting and accounting statement. It needs to have informations as follows.
+The goal is to generate weekly production summary report for weekly management meeting and accounting statements. It needs to have informations as follows.
 1. Date of Production (Start Date)
 2. SKU Number (Stock Keeping Unit)
 3. Work Order Number
